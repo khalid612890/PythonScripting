@@ -1,0 +1,14 @@
+Volatility 3 Framework 2.28.2
+
+PID	Process	Start	End	Flags	PgOff	Major	Minor	Inode	File Path	File output
+
+92	kworker_upd	0x400000	0x401000	r--	0x0	0	2	14	/tmp/.X11-unix/.cache/kworker_upd	pid.92.vma.0x400000-0x401000.dmp
+92	kworker_upd	0x401000	0x480000	r-x	0x1000	0	2	14	/tmp/.X11-unix/.cache/kworker_upd	pid.92.vma.0x401000-0x480000.dmp
+92	kworker_upd	0x480000	0x4a6000	r--	0x80000	0	2	14	/tmp/.X11-unix/.cache/kworker_upd	pid.92.vma.0x480000-0x4a6000.dmp
+92	kworker_upd	0x4a6000	0x4ab000	r--	0xa5000	0	2	14	/tmp/.X11-unix/.cache/kworker_upd	pid.92.vma.0x4a6000-0x4ab000.dmp
+92	kworker_upd	0x4ab000	0x4ad000	rw-	0xaa000	0	2	14	/tmp/.X11-unix/.cache/kworker_upd	pid.92.vma.0x4ab000-0x4ad000.dmp
+92	kworker_upd	0x4ad000	0x4b3000	rw-	0x0	0	0	0	Anonymous Mapping	pid.92.vma.0x4ad000-0x4b3000.dmp
+92	kworker_upd	0x23bb000	0x23dd000	rw-	0x0	0	0	0	[heap]	pid.92.vma.0x23bb000-0x23dd000.dmp
+92	kworker_upd	0x7ffde408f000	0x7ffde40b0000	rw-	0x0	0	0	0	[stack]	pid.92.vma.0x7ffde408f000-0x7ffde40b0000.dmp
+92	kworker_upd	0x7ffde40f9000	0x7ffde40fd000	r--	0x0	0	0	0	Anonymous Mapping	pid.92.vma.0x7ffde40f9000-0x7ffde40fd000.dmp
+92	kworker_upd	0x7ffde40fd000	0x7ffde40ff000	r-x	0x0	0	0	0	[vdso]	pid.92.vma.0x7ffde40fd000-0x7ffde40ff000.dmp

@@ -1,0 +1,7 @@
+$ vol -f evidence/working/FS01_memory.raw linux.malfind
+Volatility 3 Framework 2.28.2
+/usr/local/lib/python3.13/site-packages/volatility3/framework/deprecation.py:28: FutureWarning: This API (volatility3.plugins.linux.malware.malfind.Malfind.run) will be removed in the first release after 2026-06-07. This plugin has been renamed, please call volatility3.plugins.linux.malware.malfind.Malfind rather than volatility3.plugins.linux.malfind.Malfind.
+  warnings.warn(
+
+PID	Process	Start	End	Path	Protection	Hexdump	Disasm	File output
+

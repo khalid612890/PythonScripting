@@ -1,0 +1,4 @@
+$ tshark -r evidence/working/TechNova_perimeter_48h.pcap -Y ntlmssp.auth.username -T fields -e frame.time -e ip.src -e ip.dst -e ntlmssp.auth.domain -e ntlmssp.auth.username
+Running as user "root" and group "root". This could be dangerous.
+Nov 14, 2026 22:10:31.438593000 UTC	10.10.10.21	10.10.10.5	NULL	itsupport
+Nov 15, 2026 23:05:43.216077000 UTC	10.10.10.21	10.10.10.22	NULL	itsupport

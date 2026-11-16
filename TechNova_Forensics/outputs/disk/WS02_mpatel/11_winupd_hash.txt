@@ -1,0 +1,2 @@
+$ icat -o 2048 evidence/working/WS02_mpatel.dd 84 | sha256sum   # C:\Windows\winupd.exe on WS02
+3ef7b9c90d21ec95c1971bf83154db0e4971a8a57007ac95b68027c1e9a95a13  -

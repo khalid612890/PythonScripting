@@ -1,0 +1,9 @@
+qid,time,from,to,subject,attachment,client,spf,verdict
+3A3347,Nov 09 07:02:11,accounts@technova-invoices.com,akhan@technova.om,Overdue payment notice,Payment_Notice.html,vps-2391.hostkey.example[203.0.113.66],softfail,quarantined
+3A336A,Nov 10 05:47:39,accounts@technova-invoices.com,rthomas@technova.om,Shared document: Q4 pricing,,vps-2391.hostkey.example[203.0.113.66],fail,delivered
+3A337C,Nov 11 08:15:03,accounts@technova-invoices.com,sbaloushi@technova.om,Invoice INV-20877 overdue,Invoice_INV-20877.docm,vps-2391.hostkey.example[203.0.113.66],fail,quarantined
+3A3391,Nov 12 06:14:27,accounts@technova-invoices.com,jharris@technova.om,URGENT: Invoice INV-20931 - payment due today,Invoice_INV-20931.docm,vps-2391.hostkey.example[203.0.113.66],softfail,delivered
+3A3394,Nov 12 06:14:29,accounts@technova-invoices.com,mpatel@technova.om,URGENT: Invoice INV-20931 - payment due today,Invoice_INV-20931.docm,vps-2391.hostkey.example[203.0.113.66],softfail,delivered
+3A33A6,Nov 12 06:14:31,accounts@technova-invoices.com,lnair@technova.om,URGENT: Invoice INV-20931 - payment due today,Invoice_INV-20931.docm,vps-2391.hostkey.example[203.0.113.66],softfail,quarantined
+3A33C3,Nov 13 09:40:55,accounts@technova-invoices.com,hsaid@technova.om,Mailbox storage full - verify account,,vps-2391.hostkey.example[203.0.113.66],fail,delivered
+3A33CB,Nov 14 04:22:18,accounts@technova-invoices.com,itsupport@technova.om,Password expiry notice,,vps-2391.hostkey.example[203.0.113.66],fail,delivered

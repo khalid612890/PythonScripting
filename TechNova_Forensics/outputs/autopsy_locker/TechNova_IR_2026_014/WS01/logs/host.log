@@ -1,0 +1,6 @@
+Mon Nov 16 11:42:12 2026: Host WS01 added to case TechNova_IR_2026_014
+Mon Nov 16 11:42:17 2026: Host WS01 opened by Forensic_Analyst
+Mon Nov 16 11:44:13 2026: Sym Linking image /home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS01_jharris.dd into TechNova_IR_2026_014:WS01
+Mon Nov 16 11:44:13 2026: Image added: image img1 raw  images/WS01_jharris.dd
+Mon Nov 16 11:44:13 2026: Volume added: disk  vol1 img1    dos
+Mon Nov 16 11:44:13 2026: Volume added: part  vol2 img1	2048  196607    ntfs  C:

@@ -1,0 +1,26 @@
+Total messages: 246
+SPF results: {'pass': 238, 'softfail': 4, 'fail': 4}
+Suspicious (SPF fail/softfail or lookalike domain): 8
+Delivered suspicious: 5
+
+Nov 09 07:02:11  accounts@technova-invoices.com -> akhan@technova.om  [quarantined] SPF=softfail "Overdue payment notice" Payment_Notice.html
+Nov 10 05:47:39  accounts@technova-invoices.com -> rthomas@technova.om  [delivered] SPF=fail "Shared document: Q4 pricing" 
+Nov 11 08:15:03  accounts@technova-invoices.com -> sbaloushi@technova.om  [quarantined] SPF=fail "Invoice INV-20877 overdue" Invoice_INV-20877.docm
+Nov 12 06:14:27  accounts@technova-invoices.com -> jharris@technova.om  [delivered] SPF=softfail "URGENT: Invoice INV-20931 - payment due today" Invoice_INV-20931.docm
+Nov 12 06:14:29  accounts@technova-invoices.com -> mpatel@technova.om  [delivered] SPF=softfail "URGENT: Invoice INV-20931 - payment due today" Invoice_INV-20931.docm
+Nov 12 06:14:31  accounts@technova-invoices.com -> lnair@technova.om  [quarantined] SPF=softfail "URGENT: Invoice INV-20931 - payment due today" Invoice_INV-20931.docm
+Nov 13 09:40:55  accounts@technova-invoices.com -> hsaid@technova.om  [delivered] SPF=fail "Mailbox storage full - verify account" 
+Nov 14 04:22:18  accounts@technova-invoices.com -> itsupport@technova.om  [delivered] SPF=fail "Password expiry notice" 
+
+--- Header analysis: msg_3A21C4_jharris_INV-20931.eml ---
+Return-Path: <bounce-7731@vps-2391.hostkey.example>
+From: "TechNova Accounts" <accounts@technova-invoices.com>
+Reply-To: payments.dept77@protonmail.example
+To: jharris@technova.om
+Subject: URGENT: Invoice INV-20931 - payment due today
+Date: Thu, 12 Nov 2026 10:14:20 +0400
+X-Mailer: PHPMailer 6.8.1
+X-Originating-IP: 203.0.113.66
+Authentication-Results: mx01.technova.om; spf=softfail smtp.mailfrom=technova-invoices.com; dkim=none; dmarc=none
+Received: from vps-2391.hostkey.example ([203.0.113.66]) by mx01.technova.om with ESMTP id 3A21C4; Thu, 12 Nov 2026 06:14:27 +0000
+Attachment: Invoice_INV-20931.docm (application/vnd.ms-word.document.macroenabled.12)

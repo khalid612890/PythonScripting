@@ -1,0 +1,28 @@
+$ tshark -r evidence/working/TechNova_perimeter_48h.pcap -q -z io,phs
+Running as user "root" and group "root". This could be dangerous.
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+eth                                      frames:6701 bytes:3890975
+  arp                                    frames:1762 bytes:74004
+  ip                                     frames:4939 bytes:3816971
+    udp                                  frames:588 bytes:56676
+      dns                                frames:588 bytes:56676
+    icmp                                 frames:588 bytes:73140
+      dns                                frames:588 bytes:73140
+    tcp                                  frames:3763 bytes:3687155
+      http                               frames:290 bytes:101124
+        urlencoded-form                  frames:289 bytes:97316
+        data                             frames:1 bytes:3808
+          tcp.segments                   frames:1 bytes:3808
+      tcp.segments                       frames:290 bytes:19140
+        http                             frames:290 bytes:19140
+      nbss                               frames:134 bytes:369639
+        smb                              frames:2 bytes:278
+        smb2                             frames:132 bytes:369361
+          data                           frames:26 bytes:347289
+            tcp.segments                 frames:20 bytes:152424
+      data                               frames:3 bytes:453
+===================================================================

@@ -1,0 +1,2 @@
+$ tsk_recover -o 2048 evidence/working/WS02_mpatel.dd outputs/disk/recovered/WS02_mpatel  (unallocated only)
+Files Recovered: 2

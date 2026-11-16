@@ -1,0 +1,13 @@
+$ fls -o 2048 -r -d -p evidence/working/WS01_jharris.dd   (deleted entries)
+-/r * 100-128-2:	Users/jharris/AppData/Local/Temp/tn_data.zip
+-/r * 98-128-2:	Users/jharris/AppData/Roaming/Microsoft/Update/winupd.exe
+-/r * 102-128-2:	Users/jharris/Documents/Client_List_2026.docx
+-/r * 103-128-2:	Users/jharris/Documents/Budget_Plan_2027.xlsx
+-/r * 16:	$OrphanFiles/OrphanFile-16
+-/r * 17:	$OrphanFiles/OrphanFile-17
+-/r * 18:	$OrphanFiles/OrphanFile-18
+-/r * 19:	$OrphanFiles/OrphanFile-19
+-/r * 20:	$OrphanFiles/OrphanFile-20
+-/r * 21:	$OrphanFiles/OrphanFile-21
+-/r * 22:	$OrphanFiles/OrphanFile-22
+-/r * 23:	$OrphanFiles/OrphanFile-23

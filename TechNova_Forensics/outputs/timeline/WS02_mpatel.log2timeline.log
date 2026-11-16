@@ -1,0 +1,13 @@
+2026-11-16 11:50:33,159 [INFO] (MainProcess) PID:10608 <artifact_definitions> Determined artifact definitions path: /usr/local/lib/python3.13/site-packages/artifacts/data
+Checking availability and versions of dependencies.
+[OPTIONAL]	unable to determine version information for: flor
+[OK]
+
+
+Source path		: /home/user/PythonScripting/TechNova_Forensics/evidence/working/WS02_mpatel.dd
+Source type		: storage media image
+Processing time		: 00:00:00
+
+Processing started.
+Processing completed.
+

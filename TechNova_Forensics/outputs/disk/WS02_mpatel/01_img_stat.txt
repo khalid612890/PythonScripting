@@ -1,0 +1,7 @@
+$ img_stat evidence/working/WS02_mpatel.dd
+IMAGE FILE INFORMATION
+--------------------------------------------
+Image Type: raw
+
+Size in bytes: 100663296
+Sector size:	512

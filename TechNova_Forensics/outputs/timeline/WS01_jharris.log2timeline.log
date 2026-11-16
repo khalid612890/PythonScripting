@@ -1,0 +1,17 @@
+2026-11-16 11:50:21,365 [INFO] (MainProcess) PID:10582 <artifact_definitions> Determined artifact definitions path: /usr/local/lib/python3.13/site-packages/artifacts/data
+Checking availability and versions of dependencies.
+[OPTIONAL]	unable to determine version information for: flor
+[OK]
+
+
+Source path		: /home/user/PythonScripting/TechNova_Forensics/evidence/working/WS01_jharris.dd
+Source type		: storage media image
+Processing time		: 00:00:00
+
+Processing started.
+Processing completed.
+
+Number of warnings generated while extracting events: 1.
+
+Use pinfo to inspect warnings in more detail.
+

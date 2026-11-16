@@ -1,0 +1,5 @@
+Mon Nov 16 11:42:13 2026: Host WS02 added to case TechNova_IR_2026_014
+Mon Nov 16 11:44:22 2026: Sym Linking image /home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd into TechNova_IR_2026_014:WS02
+Mon Nov 16 11:44:22 2026: Image added: image img1 raw  images/WS02_mpatel.dd
+Mon Nov 16 11:44:22 2026: Volume added: disk  vol1 img1    dos
+Mon Nov 16 11:44:22 2026: Volume added: part  vol2 img1	2048  196607    ntfs  C:

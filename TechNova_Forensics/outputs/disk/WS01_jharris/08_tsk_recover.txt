@@ -1,0 +1,2 @@
+$ tsk_recover -o 2048 evidence/working/WS01_jharris.dd outputs/disk/recovered/WS01_jharris  (unallocated only)
+Files Recovered: 4

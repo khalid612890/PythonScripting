@@ -1,0 +1,11 @@
+# Autopsy host config file
+# Case: TechNova_IR_2026_014		Host: WS02
+# Created: Mon Nov 16 11:42:13 2026
+
+desc TechNova workstation WS02
+timezone  UTC
+timeskew  0
+alert_db '/home/user/PythonScripting/TechNova_Forensics/scripts/../outputs/hashsets/novalock_known_bad.md5'
+image  img1  raw  images/WS02_mpatel.dd
+disk  vol1  img1    dos
+part  vol2  img1	2048  196607    ntfs  C:

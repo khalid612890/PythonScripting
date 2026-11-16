@@ -1,0 +1,23 @@
+2,3c2,3
+< use lib '/usr/share/autopsy/';
+< use lib '/usr/share/autopsy/lib/';
+---
+> use lib '/tmp/claude-0/autopsy_share/';
+> use lib '/tmp/claude-0/autopsy_share/lib/';
+53a54,55
+> $ENV{PATH} = "/usr/bin";
+> delete @ENV{qw(IFS CDPATH ENV BASH_ENV)};
+336c338
+<     $ENV{PATH} = '';
+---
+>     $ENV{PATH} = '/usr/bin';
+diff -r /usr/share/autopsy/lib/Main.pm /tmp/claude-0/autopsy_share/lib/Main.pm
+66c66
+< $ENV{PATH} = "";
+---
+> $ENV{PATH} = "/usr/bin";
+diff -r /usr/share/autopsy/lib/Timeline.pm /tmp/claude-0/autopsy_share/lib/Timeline.pm
+1027c1027
+<     $ENV{PATH} = "";
+---
+>     $ENV{PATH} = "/usr/bin";

@@ -1,0 +1,26 @@
+File name:           evidence/working/TechNova_perimeter_48h.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Ethernet
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   6701
+File size:           3998 kB
+Data size:           3890 kB
+Capture duration:    172192.213184 seconds
+First packet time:   2026-11-14 02:59:59.000000
+Last packet time:    2026-11-16 02:49:51.213184
+Data byte rate:      22 bytes/s
+Data bit rate:       180 bits/s
+Average packet size: 580.66 bytes
+Average packet rate: 0 packets/s
+SHA256:              fa2bac2dc2be4de475d156ff5e8c4d7dbf93d6d5419141a78e21f5ffe917eef0
+SHA1:                4e651209a73c52dba53ffb79da4a492a51bcbe2a
+Strict time order:   True
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Ethernet (1 - ether)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 6701

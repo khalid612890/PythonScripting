@@ -1,0 +1,209 @@
+datetime,timestamp_desc,source,source_long,message,parser,display_name,tag
+2026-11-12T06:39:52.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm,-
+2026-11-12T06:39:52.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm,-
+2026-11-12T06:39:52.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm,-
+2026-11-12T06:41:07.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm,-
+2026-11-12T06:41:07.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm,-
+2026-11-12T06:41:07.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm,-
+2026-11-12T06:42:30.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt Type: file,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt,-
+2026-11-12T06:43:05.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA Type: file,filestat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA,-
+2026-11-12T06:43:05.000000+00:00,Creation Time,FILE,File stat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA Type: file,filestat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA,-
+2026-11-12T06:43:05.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA Type: file,filestat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA,-
+2026-11-13T05:02:44.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default\History Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default\History,-
+2026-11-13T05:02:44.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default\History Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default\History,-
+2026-11-15T23:58:41.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt Type: file,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt,-
+2026-11-15T23:58:41.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt Type: file,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt,-
+2026-11-16T02:03:11.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt,-
+2026-11-16T02:03:11.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt,-
+2026-11-16T02:03:11.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt,-
+2026-11-16T02:03:11.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock,-
+2026-11-16T02:03:11.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt,-
+2026-11-16T02:03:11.000000+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt,-
+2026-11-16T02:03:11.000000+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$AttrDef Type: file,filestat,NTFS:\$AttrDef,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$AttrDef Type: file,filestat,NTFS:\$AttrDef,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$AttrDef Type: file,filestat,NTFS:\$AttrDef,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$AttrDef Type: file,filestat,NTFS:\$AttrDef,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$BadClus Type: file,filestat,NTFS:\$BadClus,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$BadClus Type: file,filestat,NTFS:\$BadClus,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$BadClus Type: file,filestat,NTFS:\$BadClus,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$BadClus Type: file,filestat,NTFS:\$BadClus,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Bitmap Type: file,filestat,NTFS:\$Bitmap,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Bitmap Type: file,filestat,NTFS:\$Bitmap,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Bitmap Type: file,filestat,NTFS:\$Bitmap,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Bitmap Type: file,filestat,NTFS:\$Bitmap,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Boot Type: file,filestat,NTFS:\$Boot,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Boot Type: file,filestat,NTFS:\$Boot,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Boot Type: file,filestat,NTFS:\$Boot,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Boot Type: file,filestat,NTFS:\$Boot,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Extend Type: directory,filestat,NTFS:\$Extend,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Extend Type: directory,filestat,NTFS:\$Extend,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Extend Type: directory,filestat,NTFS:\$Extend,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Extend Type: directory,filestat,NTFS:\$Extend,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Extend\$ObjId Type: file,filestat,NTFS:\$Extend\$ObjId,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Extend\$ObjId Type: file,filestat,NTFS:\$Extend\$ObjId,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Extend\$ObjId Type: file,filestat,NTFS:\$Extend\$ObjId,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Extend\$ObjId Type: file,filestat,NTFS:\$Extend\$ObjId,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Extend\$Quota Type: file,filestat,NTFS:\$Extend\$Quota,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Extend\$Quota Type: file,filestat,NTFS:\$Extend\$Quota,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Extend\$Quota Type: file,filestat,NTFS:\$Extend\$Quota,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Extend\$Quota Type: file,filestat,NTFS:\$Extend\$Quota,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Extend\$Reparse Type: file,filestat,NTFS:\$Extend\$Reparse,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Extend\$Reparse Type: file,filestat,NTFS:\$Extend\$Reparse,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Extend\$Reparse Type: file,filestat,NTFS:\$Extend\$Reparse,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Extend\$Reparse Type: file,filestat,NTFS:\$Extend\$Reparse,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$LogFile Type: file,filestat,NTFS:\$LogFile,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$LogFile Type: file,filestat,NTFS:\$LogFile,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$LogFile Type: file,filestat,NTFS:\$LogFile,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$LogFile Type: file,filestat,NTFS:\$LogFile,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$MFTMirr Type: file,filestat,NTFS:\$MFTMirr,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$MFTMirr Type: file,filestat,NTFS:\$MFTMirr,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$MFTMirr Type: file,filestat,NTFS:\$MFTMirr,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$MFTMirr Type: file,filestat,NTFS:\$MFTMirr,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Secure Type: file,filestat,NTFS:\$Secure,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Secure Type: file,filestat,NTFS:\$Secure,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Secure Type: file,filestat,NTFS:\$Secure,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Secure Type: file,filestat,NTFS:\$Secure,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$UpCase Type: file,filestat,NTFS:\$UpCase,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$UpCase Type: file,filestat,NTFS:\$UpCase,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$UpCase Type: file,filestat,NTFS:\$UpCase,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$UpCase Type: file,filestat,NTFS:\$UpCase,-
+2026-11-16T11:40:35.000000+00:00,Content Modification Time,FILE,File stat,NTFS:\$Volume Type: file,filestat,NTFS:\$Volume,-
+2026-11-16T11:40:35.000000+00:00,Creation Time,FILE,File stat,NTFS:\$Volume Type: file,filestat,NTFS:\$Volume,-
+2026-11-16T11:40:35.000000+00:00,Last Access Time,FILE,File stat,NTFS:\$Volume Type: file,filestat,NTFS:\$Volume,-
+2026-11-16T11:40:35.000000+00:00,Metadata Modification Time,FILE,File stat,NTFS:\$Volume Type: file,filestat,NTFS:\$Volume,-
+2026-11-16T11:40:35.059416+00:00,Creation Time,FILE,File stat,NTFS:\Windows Type: directory,filestat,NTFS:\Windows,-
+2026-11-16T11:40:35.059416+00:00,Last Access Time,FILE,File stat,NTFS:\Windows Type: directory,filestat,NTFS:\Windows,-
+2026-11-16T11:40:35.059525+00:00,Creation Time,FILE,File stat,NTFS:\Windows\System32 Type: directory,filestat,NTFS:\Windows\System32,-
+2026-11-16T11:40:35.059525+00:00,Last Access Time,FILE,File stat,NTFS:\Windows\System32 Type: directory,filestat,NTFS:\Windows\System32,-
+2026-11-16T11:40:35.059537+00:00,Content Modification Time,FILE,File stat,NTFS:\Windows Type: directory,filestat,NTFS:\Windows,-
+2026-11-16T11:40:35.059537+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Windows Type: directory,filestat,NTFS:\Windows,-
+2026-11-16T11:40:35.059622+00:00,Content Modification Time,FILE,File stat,NTFS:\Windows\System32\config Type: directory,filestat,NTFS:\Windows\System32\config,-
+2026-11-16T11:40:35.059622+00:00,Creation Time,FILE,File stat,NTFS:\Windows\System32\config Type: directory,filestat,NTFS:\Windows\System32\config,-
+2026-11-16T11:40:35.059622+00:00,Last Access Time,FILE,File stat,NTFS:\Windows\System32\config Type: directory,filestat,NTFS:\Windows\System32\config,-
+2026-11-16T11:40:35.059622+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Windows\System32\config Type: directory,filestat,NTFS:\Windows\System32\config,-
+2026-11-16T11:40:35.059738+00:00,Creation Time,FILE,File stat,NTFS:\Windows\System32\Tasks Type: directory,filestat,NTFS:\Windows\System32\Tasks,-
+2026-11-16T11:40:35.059738+00:00,Last Access Time,FILE,File stat,NTFS:\Windows\System32\Tasks Type: directory,filestat,NTFS:\Windows\System32\Tasks,-
+2026-11-16T11:40:35.059748+00:00,Content Modification Time,FILE,File stat,NTFS:\Windows\System32 Type: directory,filestat,NTFS:\Windows\System32,-
+2026-11-16T11:40:35.059748+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Windows\System32 Type: directory,filestat,NTFS:\Windows\System32,-
+2026-11-16T11:40:35.059857+00:00,Content Modification Time,FILE,File stat,NTFS:\Program Files Type: directory,filestat,NTFS:\Program Files,-
+2026-11-16T11:40:35.059857+00:00,Creation Time,FILE,File stat,NTFS:\Program Files Type: directory,filestat,NTFS:\Program Files,-
+2026-11-16T11:40:35.059857+00:00,Last Access Time,FILE,File stat,NTFS:\Program Files Type: directory,filestat,NTFS:\Program Files,-
+2026-11-16T11:40:35.059857+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Program Files Type: directory,filestat,NTFS:\Program Files,-
+2026-11-16T11:40:35.060079+00:00,Creation Time,FILE,File stat,NTFS:\Users Type: directory,filestat,NTFS:\Users,-
+2026-11-16T11:40:35.060079+00:00,Last Access Time,FILE,File stat,NTFS:\Users Type: directory,filestat,NTFS:\Users,-
+2026-11-16T11:40:35.060177+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris Type: directory,filestat,NTFS:\Users\jharris,-
+2026-11-16T11:40:35.060177+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris Type: directory,filestat,NTFS:\Users\jharris,-
+2026-11-16T11:40:35.060297+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Desktop Type: directory,filestat,NTFS:\Users\jharris\Desktop,-
+2026-11-16T11:40:35.060297+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Desktop Type: directory,filestat,NTFS:\Users\jharris\Desktop,-
+2026-11-16T11:40:35.060498+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Documents Type: directory,filestat,NTFS:\Users\jharris\Documents,-
+2026-11-16T11:40:35.060498+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Documents Type: directory,filestat,NTFS:\Users\jharris\Documents,-
+2026-11-16T11:40:35.060625+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\Downloads Type: directory,filestat,NTFS:\Users\jharris\Downloads,-
+2026-11-16T11:40:35.060625+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\Downloads Type: directory,filestat,NTFS:\Users\jharris\Downloads,-
+2026-11-16T11:40:35.060940+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\Public Type: directory,filestat,NTFS:\Users\Public,-
+2026-11-16T11:40:35.060940+00:00,Creation Time,FILE,File stat,NTFS:\Users\Public Type: directory,filestat,NTFS:\Users\Public,-
+2026-11-16T11:40:35.060940+00:00,Last Access Time,FILE,File stat,NTFS:\Users\Public Type: directory,filestat,NTFS:\Users\Public,-
+2026-11-16T11:40:35.060940+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\Public Type: directory,filestat,NTFS:\Users\Public,-
+2026-11-16T11:40:35.060943+00:00,Content Modification Time,FILE,File stat,NTFS:\Users Type: directory,filestat,NTFS:\Users,-
+2026-11-16T11:40:35.060943+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users Type: directory,filestat,NTFS:\Users,-
+2026-11-16T11:40:35.065018+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Desktop\desktop.ini Type: file,filestat,NTFS:\Users\jharris\Desktop\desktop.ini,-
+2026-11-16T11:40:35.065767+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData Type: directory,filestat,NTFS:\Users\jharris\AppData,-
+2026-11-16T11:40:35.065767+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData Type: directory,filestat,NTFS:\Users\jharris\AppData,-
+2026-11-16T11:40:35.065782+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris Type: directory,filestat,NTFS:\Users\jharris,-
+2026-11-16T11:40:35.065782+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris Type: directory,filestat,NTFS:\Users\jharris,-
+2026-11-16T11:40:35.065857+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local Type: directory,filestat,NTFS:\Users\jharris\AppData\Local,-
+2026-11-16T11:40:35.065857+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local Type: directory,filestat,NTFS:\Users\jharris\AppData\Local,-
+2026-11-16T11:40:35.065933+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft,-
+2026-11-16T11:40:35.065933+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft,-
+2026-11-16T11:40:35.066034+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows,-
+2026-11-16T11:40:35.066034+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows,-
+2026-11-16T11:40:35.066056+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft,-
+2026-11-16T11:40:35.066056+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft,-
+2026-11-16T11:40:35.066138+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache,-
+2026-11-16T11:40:35.066138+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache,-
+2026-11-16T11:40:35.066141+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows,-
+2026-11-16T11:40:35.066141+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows,-
+2026-11-16T11:40:35.066217+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook,-
+2026-11-16T11:40:35.066217+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook,-
+2026-11-16T11:40:35.066228+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache,-
+2026-11-16T11:40:35.066228+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache,-
+2026-11-16T11:40:35.066347+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P,-
+2026-11-16T11:40:35.066347+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P,-
+2026-11-16T11:40:35.066350+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook,-
+2026-11-16T11:40:35.066350+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook,-
+2026-11-16T11:40:35.066441+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P,-
+2026-11-16T11:40:35.066441+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P,-
+2026-11-16T11:40:35.066725+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\7XK2LQ9P\Invoice_INV-20931.docm,-
+2026-11-16T11:40:35.066908+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Downloads Type: directory,filestat,NTFS:\Users\jharris\Downloads,-
+2026-11-16T11:40:35.066908+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Downloads Type: directory,filestat,NTFS:\Users\jharris\Downloads,-
+2026-11-16T11:40:35.067112+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm Type: file,filestat,NTFS:\Users\jharris\Downloads\Invoice_INV-20931.docm,-
+2026-11-16T11:40:35.067352+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google,-
+2026-11-16T11:40:35.067352+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google,-
+2026-11-16T11:40:35.067426+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome,-
+2026-11-16T11:40:35.067426+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome,-
+2026-11-16T11:40:35.067435+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google,-
+2026-11-16T11:40:35.067435+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google,-
+2026-11-16T11:40:35.067514+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data,-
+2026-11-16T11:40:35.067514+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data,-
+2026-11-16T11:40:35.067524+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome,-
+2026-11-16T11:40:35.067524+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome,-
+2026-11-16T11:40:35.067603+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default,-
+2026-11-16T11:40:35.067603+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default,-
+2026-11-16T11:40:35.067614+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data,-
+2026-11-16T11:40:35.067614+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data,-
+2026-11-16T11:40:35.087785+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default,-
+2026-11-16T11:40:35.087785+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default,-
+2026-11-16T11:40:35.088028+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default\History Type: file,filestat,NTFS:\Users\jharris\AppData\Local\Google\Chrome\User Data\Default\History,-
+2026-11-16T11:40:35.088273+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming,-
+2026-11-16T11:40:35.088273+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming,-
+2026-11-16T11:40:35.088277+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData Type: directory,filestat,NTFS:\Users\jharris\AppData,-
+2026-11-16T11:40:35.088277+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData Type: directory,filestat,NTFS:\Users\jharris\AppData,-
+2026-11-16T11:40:35.088388+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft,-
+2026-11-16T11:40:35.088388+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft,-
+2026-11-16T11:40:35.088391+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming,-
+2026-11-16T11:40:35.088391+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming,-
+2026-11-16T11:40:35.088472+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows,-
+2026-11-16T11:40:35.088472+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows,-
+2026-11-16T11:40:35.088560+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell,-
+2026-11-16T11:40:35.088560+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell,-
+2026-11-16T11:40:35.088563+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows,-
+2026-11-16T11:40:35.088563+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows,-
+2026-11-16T11:40:35.088643+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine,-
+2026-11-16T11:40:35.088643+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine,-
+2026-11-16T11:40:35.088645+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell,-
+2026-11-16T11:40:35.088645+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell,-
+2026-11-16T11:40:35.088727+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine,-
+2026-11-16T11:40:35.088727+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine,-
+2026-11-16T11:40:35.088961+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt Type: file,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt,-
+2026-11-16T11:40:35.089175+00:00,Content Modification Time,FILE,File stat,NTFS:\Windows\System32\Tasks Type: directory,filestat,NTFS:\Windows\System32\Tasks,-
+2026-11-16T11:40:35.089175+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Windows\System32\Tasks Type: directory,filestat,NTFS:\Windows\System32\Tasks,-
+2026-11-16T11:40:35.089421+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA Type: file,filestat,NTFS:\Windows\System32\Tasks\MicrosoftEdgeUpdateTaskCoreUA,-
+2026-11-16T11:40:35.089524+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update,-
+2026-11-16T11:40:35.089524+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update,-
+2026-11-16T11:40:35.089527+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft,-
+2026-11-16T11:40:35.089527+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft,-
+2026-11-16T11:40:35.090143+00:00,Creation Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Temp Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Temp,-
+2026-11-16T11:40:35.090143+00:00,Last Access Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Temp Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Temp,-
+2026-11-16T11:40:35.090146+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local Type: directory,filestat,NTFS:\Users\jharris\AppData\Local,-
+2026-11-16T11:40:35.090146+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local Type: directory,filestat,NTFS:\Users\jharris\AppData\Local,-
+2026-11-16T11:40:35.092604+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Q3_Financial_Summary.xlsx.novalock,-
+2026-11-16T11:40:35.093451+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Client_List_2026.docx.novalock,-
+2026-11-16T11:40:35.094136+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock Type: file,filestat,NTFS:\Users\jharris\Documents\Budget_Plan_2027.xlsx.novalock,-
+2026-11-16T11:40:35.094408+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents Type: directory,filestat,NTFS:\Users\jharris\Documents,-
+2026-11-16T11:40:35.094408+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents Type: directory,filestat,NTFS:\Users\jharris\Documents,-
+2026-11-16T11:40:35.094608+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Documents\README_RESTORE_FILES.txt,-
+2026-11-16T11:40:35.094767+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\Desktop Type: directory,filestat,NTFS:\Users\jharris\Desktop,-
+2026-11-16T11:40:35.094767+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Desktop Type: directory,filestat,NTFS:\Users\jharris\Desktop,-
+2026-11-16T11:40:35.094941+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt Type: file,filestat,NTFS:\Users\jharris\Desktop\README_RESTORE_FILES.txt,-
+2026-11-16T11:40:35.094993+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Temp Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Temp,-
+2026-11-16T11:40:35.094993+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Local\Temp Type: directory,filestat,NTFS:\Users\jharris\AppData\Local\Temp,-
+2026-11-16T11:40:35.095046+00:00,Content Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update,-
+2026-11-16T11:40:35.095046+00:00,Metadata Modification Time,FILE,File stat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update Type: directory,filestat,NTFS:\Users\jharris\AppData\Roaming\Microsoft\Update,-

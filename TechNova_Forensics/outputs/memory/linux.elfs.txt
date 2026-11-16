@@ -1,0 +1,15 @@
+$ vol -f evidence/working/FS01_memory.raw linux.elfs
+Volatility 3 Framework 2.28.2
+
+PID	Process	Start	End	File Path	File Output
+
+1	init	0x400000	0x401000	/bin/busybox	Disabled
+1	init	0x7ffe65968000	0x7ffe6596a000	[vdso]	Disabled
+84	nc	0x400000	0x401000	/bin/busybox	Disabled
+84	nc	0x7ffd8eefd000	0x7ffd8eeff000	[vdso]	Disabled
+85	sh	0x400000	0x401000	/bin/busybox	Disabled
+85	sh	0x7ffd735f1000	0x7ffd735f3000	[vdso]	Disabled
+87	nc	0x400000	0x401000	/bin/busybox	Disabled
+87	nc	0x7fff92bde000	0x7fff92be0000	[vdso]	Disabled
+92	kworker_upd	0x400000	0x401000	/tmp/.X11-unix/.cache/kworker_upd	Disabled
+92	kworker_upd	0x7ffde40fd000	0x7ffde40ff000	[vdso]	Disabled

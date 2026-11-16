@@ -1,0 +1,52 @@
+
+************************** Plaso Storage Information ***************************
+            Filename : WS01_jharris.plaso
+      Format version : 20260516
+Serialization format : json
+--------------------------------------------------------------------------------
+
+*********************************** Sessions ***********************************
+f825b975-288c-419a-b61c-8c9f66672e5d : 2026-11-16T11:50:22.623606+00:00
+--------------------------------------------------------------------------------
+
+******************************** Event sources *********************************
+Total : 55
+--------------------------------------------------------------------------------
+
+************************ Events generated per data type ************************
+Data type name : Number of events
+--------------------------------------------------------------------------------
+       fs:stat : 216
+         Total : 216
+--------------------------------------------------------------------------------
+
+************************* Events generated per parser **************************
+Parser (plugin) name : Number of events
+--------------------------------------------------------------------------------
+            filestat : 216
+               Total : 216
+--------------------------------------------------------------------------------
+
+No events labels stored.
+
+******************* Extraction warnings generated per parser *******************
+    Parser (plugin) name : Number of warnings
+--------------------------------------------------------------------------------
+sqlite/chrome_27_history : 1
+--------------------------------------------------------------------------------
+
+************** Path specifications with most extraction warnings ***************
+Number of warnings : Pathspec
+--------------------------------------------------------------------------------
+                 1 : type: OS, location:
+                     /home/user/PythonScripting/TechNova_Forensics/evidence/working/WS01_jharris.dd
+                   : type: RAW
+                   : type: TSK_PARTITION, location: /p1, part index: 2, start
+                     offset: 0x00100000
+                   : type: NTFS, location:
+                     \Users\jharris\AppData\Local\Google\Chrome\User
+                     Data\Default\History, MFT attribute: 1, MFT entry: 89
+--------------------------------------------------------------------------------
+
+No analysis reports stored.
+

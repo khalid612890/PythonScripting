@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ntlm
+#open	2026-11-16-11-50-06
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	username	hostname	domainname	server_nb_computer_name	server_dns_computer_name	server_tree_name	success
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	bool
+1794694231.433957	Cdj9Qs1GAkKdfJEHVb	10.10.10.21	45652	10.10.10.5	445	itsupport	-	-	OPYMLJAP	OPYMLJAP	-	T
+1794783943.210393	C6Nufd2gj4HUYxbgtj	10.10.10.21	45372	10.10.10.22	445	itsupport	-	-	TUYKKYEI	TUYKKYEI	-	T
+#close	2026-11-16-11-50-06

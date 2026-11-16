@@ -1,0 +1,7 @@
+$ img_stat evidence/working/WS01_jharris.dd
+IMAGE FILE INFORMATION
+--------------------------------------------
+Image Type: raw
+
+Size in bytes: 100663296
+Sector size:	512

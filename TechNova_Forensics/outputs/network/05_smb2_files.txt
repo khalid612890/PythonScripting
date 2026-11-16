@@ -1,0 +1,12 @@
+$ tshark -r evidence/working/TechNova_perimeter_48h.pcap -Y smb2.cmd==5 && smb2.filename -T fields -e frame.time -e ip.src -e ip.dst -e smb2.tree -e smb2.filename
+Running as user "root" and group "root". This could be dangerous.
+Nov 14, 2026 22:10:31.442316000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	
+Nov 14, 2026 22:10:31.450539000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	
+Nov 14, 2026 22:10:31.457603000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	Q3_Financial_Report.xlsx
+Nov 14, 2026 22:10:31.468872000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	Client_Contracts_2026.docx
+Nov 14, 2026 22:10:31.486168000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	Payroll_Nov2026.csv
+Nov 14, 2026 22:10:31.504426000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	Project_Apollo_Design.pdf
+Nov 14, 2026 22:10:31.521370000 UTC	10.10.10.21	10.10.10.5	\\10.10.10.5\Shared	HR_Employee_Records.xlsx
+Nov 15, 2026 23:05:43.221809000 UTC	10.10.10.21	10.10.10.22	\\10.10.10.22\ADMIN$	
+Nov 15, 2026 23:05:43.229332000 UTC	10.10.10.21	10.10.10.22	\\10.10.10.22\ADMIN$	winupd.exe
+Nov 15, 2026 23:05:43.234058000 UTC	10.10.10.21	10.10.10.22	\\10.10.10.22\ADMIN$	

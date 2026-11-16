@@ -1,0 +1,5 @@
+$ icat -o 2048 evidence/working/WS01_jharris.dd 89 > WS01_Chrome_History.sqlite ; sqlite3 query (WebKit epoch -> UTC)
+2026-11-12 06:38:40 | https://outlook.office.com/mail/inbox | Mail - Jane Harris - Outlook
+2026-11-12 06:42:15 | http://cdn-update-sync.net/invoice/view.php?id=20931 | Invoice Viewer
+2026-11-12 07:10:02 | https://www.bbc.com/news | BBC News
+2026-11-13 05:02:44 | https://mail.technova.local/owa/ | Outlook Web App

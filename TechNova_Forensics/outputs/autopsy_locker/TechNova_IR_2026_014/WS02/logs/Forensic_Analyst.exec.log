@@ -1,0 +1,17 @@
+Mon Nov 16 11:44:20 2026: '/usr/bin/img_stat' -t "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd"
+Mon Nov 16 11:44:20 2026: '/usr/bin/mmstat' -i raw "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd"
+Mon Nov 16 11:44:20 2026: '/usr/bin/mmls' -a -i raw -aM -t dos -r "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd"
+Mon Nov 16 11:44:20 2026: '/usr/bin/fsstat' -o 2048 -i raw -t "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd"
+Mon Nov 16 11:44:21 2026: '/usr/bin/img_stat' -t "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd"
+Mon Nov 16 11:44:21 2026: '/usr/bin/blkls' -f raw -e "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd" | '/usr/bin/md5sum'
+Mon Nov 16 11:44:22 2026: '/usr/bin/fsstat' -o 2048 -i raw -f ntfs "/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd"
+Mon Nov 16 11:44:22 2026: /bin/ln -s '/home/user/PythonScripting/TechNova_Forensics/scripts/../evidence/working/WS02_mpatel.dd' '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd'
+Mon Nov 16 11:45:10 2026: '/usr/bin/fsstat' -f ntfs -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd'
+Mon Nov 16 11:45:11 2026: '/usr/bin/fls' -f ntfs -la -z ''UTC'' -s '0' -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' 5
+Mon Nov 16 11:45:13 2026: '/usr/bin/fls' -f ntfs -la -z ''UTC'' -s '0' -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' 69
+Mon Nov 16 11:45:14 2026: '/usr/bin/fls' -f ntfs -la -z ''UTC'' -s '0' -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' 70
+Mon Nov 16 11:45:15 2026: '/usr/bin/fls' -f ntfs -la -z ''UTC'' -s '0' -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' 72
+Mon Nov 16 11:45:17 2026: '/usr/bin/fls' -f ntfs -la -z ''UTC'' -s '0' -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' 5
+Mon Nov 16 11:45:22 2026: '/usr/bin/blkcat' -f ntfs -s -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd'
+Mon Nov 16 11:45:22 2026: '/usr/bin/blkls' -e -f ntfs -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' | '/usr/bin/srch_strings' -a -t d | '/bin/grep'  'NOVALOCK'
+Mon Nov 16 11:45:23 2026: '/usr/bin/blkls' -e -f ntfs -o 2048 -i raw '/home/user/PythonScripting/TechNova_Forensics/outputs/autopsy_locker/TechNova_IR_2026_014/WS02/images/WS02_mpatel.dd' | '/usr/bin/srch_strings' -a -t d -e l | '/bin/grep'  'NOVALOCK'

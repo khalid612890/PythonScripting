@@ -1,0 +1,9 @@
+# Autopsy case config file
+# Case: TechNova_IR_2026_014
+
+created Mon Nov 16 11:42:01 2026
+desc NovaLock ransomware incident - T
+images	images
+data		output
+log		logs
+reports	reports

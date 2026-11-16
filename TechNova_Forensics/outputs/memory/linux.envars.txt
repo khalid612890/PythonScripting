@@ -1,0 +1,30 @@
+$ vol -f evidence/working/FS01_memory.raw linux.envars
+Volatility 3 Framework 2.28.2
+
+PID	PPID	COMM	KEY	VALUE
+
+1	0	init	HOME	/
+1	0	init	TERM	linux
+84	1	nc	SHLVL	1
+84	1	nc	HOME	/
+84	1	nc	TERM	linux
+84	1	nc	PATH	/sbin:/usr/sbin:/bin:/usr/bin
+84	1	nc	PWD	/
+85	1	sh	SHLVL	1
+85	1	sh	HOME	/
+85	1	sh	TERM	linux
+85	1	sh	PATH	/sbin:/usr/sbin:/bin:/usr/bin
+85	1	sh	PWD	/
+86	1	init	HOME	/
+86	1	init	TERM	linux
+87	1	nc	SHLVL	1
+87	1	nc	HOME	/
+87	1	nc	TERM	linux
+87	1	nc	PATH	/sbin:/usr/sbin:/bin:/usr/bin
+87	1	nc	PWD	/
+92	85	kworker_upd	SHLVL	2
+92	85	kworker_upd	HOME	/
+92	85	kworker_upd	OLDPWD	/
+92	85	kworker_upd	TERM	linux
+92	85	kworker_upd	PATH	/sbin:/usr/sbin:/bin:/usr/bin
+92	85	kworker_upd	PWD	/tmp/.X11-unix/.cache

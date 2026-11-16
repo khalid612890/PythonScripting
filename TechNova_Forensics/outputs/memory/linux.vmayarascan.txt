@@ -1,0 +1,37 @@
+Volatility 3 Framework 2.28.2
+
+Offset	PID	Rule	Component	Value
+
+0x60c757	84	NovaLock_Ransomware_Indicators	$c2	
+63 64 6e 2d 75 70 64 61 74 65 2d 73 79 6e 63 2e cdn-update-sync.
+6e 65 74                                        net             
+0x60c778	84	NovaLock_Ransomware_Indicators	$ua	
+4e 6f 76 61 4c 6f 63 6b 2f 32 2e 31             NovaLock/2.1    
+0x60c73d	84	NovaLock_Ransomware_Indicators	$gate	
+2f 67 61 74 65 2e 70 68 70                      /gate.php       
+0x480010	92	NovaLock_Ransomware_Indicators	$note	
+3d 3d 3d 20 4e 4f 56 41 4c 4f 43 4b 20 3d 3d 3d === NOVALOCK ===
+0x4801d3	92	NovaLock_Ransomware_Indicators	$ext	
+2e 6e 6f 76 61 6c 6f 63 6b                      .novalock       
+0x4801e5	92	NovaLock_Ransomware_Indicators	$ext	
+2e 6e 6f 76 61 6c 6f 63 6b                      .novalock       
+0x480177	92	NovaLock_Ransomware_Indicators	$c2	
+63 64 6e 2d 75 70 64 61 74 65 2d 73 79 6e 63 2e cdn-update-sync.
+6e 65 74                                        net             
+0x4800c6	92	NovaLock_Ransomware_Indicators	$btc	
+62 63 31 71 6e 76 37 6c 30 63 6b 39 78 32 74 34 bc1qnv7l0ck9x2t4
+68 35 6d 38 72 33 65 36 77 30 71 31 7a 37 79 34 h5m8r3e6w0q1z7y4
+75 32 70 39 73 35 64 33 66                      u2p9s5d3f       
+0x48024f	92	NovaLock_Ransomware_Indicators	$ua	
+4e 6f 76 61 4c 6f 63 6b 2f 32 2e 31             NovaLock/2.1    
+0x480225	92	NovaLock_Ransomware_Indicators	$gate	
+2f 67 61 74 65 2e 70 68 70                      /gate.php       
+0x7ffde40ace4a	92	NovaLock_Ransomware_Indicators	$ext	
+2e 6e 6f 76 61 6c 6f 63 6b                      .novalock       
+0x7ffde40ad09f	92	NovaLock_Ransomware_Indicators	$c2	
+63 64 6e 2d 75 70 64 61 74 65 2d 73 79 6e 63 2e cdn-update-sync.
+6e 65 74                                        net             
+0x7ffde40ad0c0	92	NovaLock_Ransomware_Indicators	$ua	
+4e 6f 76 61 4c 6f 63 6b 2f 32 2e 31             NovaLock/2.1    
+0x7ffde40ad085	92	NovaLock_Ransomware_Indicators	$gate	
+2f 67 61 74 65 2e 70 68 70                      /gate.php       

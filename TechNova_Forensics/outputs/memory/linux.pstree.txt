@@ -1,0 +1,67 @@
+$ vol -f evidence/working/FS01_memory.raw linux.pstree
+Volatility 3 Framework 2.28.2
+
+OFFSET (V)	PID	TID	PPID	COMM
+
+0x936181304f00	1	1	0	init
+* 0x936182b90000	84	84	1	nc
+* 0x936182b92780	85	85	1	sh
+** 0x93618281a780	92	92	85	kworker_upd
+* 0x936182822780	86	86	1	init
+* 0x936181ffcf00	87	87	1	nc
+0x936181300000	2	2	0	kthreadd
+* 0x936181302780	3	3	2	pool_workqueue_
+* 0x936181310000	4	4	2	kworker/R-rcu_g
+* 0x936181312780	5	5	2	kworker/R-rcu_p
+* 0x936181314f00	6	6	2	kworker/R-slub_
+* 0x93618131cf00	7	7	2	kworker/R-netns
+* 0x936181318000	8	8	2	kworker/0:0
+* 0x93618131a780	9	9	2	kworker/0:1
+* 0x936181364f00	10	10	2	kworker/0:0H
+* 0x936181360000	11	11	2	kworker/u2:0
+* 0x936181362780	12	12	2	kworker/R-mm_pe
+* 0x936181368000	13	13	2	rcu_tasks_kthre
+* 0x93618136a780	14	14	2	rcu_tasks_rude_
+* 0x93618136cf00	15	15	2	rcu_tasks_trace
+* 0x936181374f00	16	16	2	ksoftirqd/0
+* 0x936181370000	17	17	2	rcu_preempt
+* 0x936181372780	18	18	2	migration/0
+* 0x9361813fa780	19	19	2	idle_inject/0
+* 0x9361813fcf00	20	20	2	cpuhp/0
+* 0x9361813f8000	21	21	2	kdevtmpfs
+* 0x93618183a780	22	22	2	kworker/R-inet_
+* 0x93618183cf00	23	23	2	kworker/u2:1
+* 0x936181838000	24	24	2	kauditd
+* 0x936181b9cf00	25	25	2	khungtaskd
+* 0x936181b98000	26	26	2	oom_reaper
+* 0x936181b9a780	27	27	2	kworker/u2:2
+* 0x936181ba4f00	28	28	2	kworker/R-write
+* 0x936181ba0000	29	29	2	kcompactd0
+* 0x936181ba2780	30	30	2	ksmd
+* 0x936181baa780	31	31	2	kworker/R-kinte
+* 0x936181bacf00	32	32	2	kworker/R-kbloc
+* 0x936181ba8000	33	33	2	kworker/R-blkcg
+* 0x936181bc4f00	34	34	2	irq/9-acpi
+* 0x936181bc0000	35	35	2	kworker/R-tpm_d
+* 0x936181bc2780	36	36	2	kworker/R-ata_s
+* 0x936181bf2780	37	37	2	kworker/R-md
+* 0x936181bf4f00	38	38	2	kworker/R-md_bi
+* 0x936181bf0000	39	39	2	kworker/R-edac-
+* 0x936181c0a780	40	40	2	kworker/R-devfr
+* 0x936181c0cf00	41	41	2	watchdogd
+* 0x936181c08000	42	42	2	kworker/0:1H
+* 0x936181e68000	43	43	2	kswapd0
+* 0x936181e6a780	44	44	2	ecryptfs-kthrea
+* 0x936181e6cf00	45	45	2	kworker/R-kthro
+* 0x936181e9a780	46	46	2	kworker/R-acpi_
+* 0x936181e9cf00	47	47	2	scsi_eh_0
+* 0x936181e98000	48	48	2	kworker/R-scsi_
+* 0x936181f62780	49	49	2	scsi_eh_1
+* 0x936181f64f00	50	50	2	kworker/R-scsi_
+* 0x936181f60000	51	51	2	kworker/u2:3
+* 0x936181ff8000	52	52	2	kworker/R-mld
+* 0x936181ffa780	53	53	2	kworker/R-ipv6_
+* 0x936182818000	55	55	2	kworker/u2:4
+* 0x936182820000	61	61	2	kworker/R-kstrp
+* 0x936182824f00	63	63	2	kworker/u3:0
+* 0x936182b94f00	76	76	2	kworker/R-charg

@@ -1,0 +1,3 @@
+$ tshark -Y http.request.uri=="/gate.php" -T fields -e ip.src | sort | uniq -c
+    288 10.10.10.21
+      1 10.10.10.5

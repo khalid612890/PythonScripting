@@ -1,0 +1,132 @@
+$ istat -o 2048 evidence/working/WS01_jharris.dd 100   # Users/jharris/AppData/Local/Temp/tn_data.zip
+MFT Entry Header Values:
+Entry: 100        Sequence: 2
+$LogFile Sequence Number: 0
+Not Allocated File
+Links: 0
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 0  ()
+Created:	2026-11-15 01:18:22.000000000 (UTC)
+File Modified:	2026-11-15 01:18:22.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.090573600 (UTC)
+Accessed:	2026-11-15 01:18:22.000000000 (UTC)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: tn_data.zip
+Parent MFT Entry: 99 	Sequence: 1
+Allocated Size: 16384   	Actual Size: 0
+Created:	2026-11-15 01:18:22.000000000 (UTC)
+File Modified:	2026-11-15 01:18:22.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.090573600 (UTC)
+Accessed:	2026-11-15 01:18:22.000000000 (UTC)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0)   Name: N/A   Resident   size: 48
+Type: $FILE_NAME (48-3)   Name: N/A   Resident   size: 88
+Type: $SECURITY_DESCRIPTOR (80-1)   Name: N/A   Resident   size: 80
+Type: $DATA (128-2)   Name: N/A   Non-Resident   size: 13138  init_size: 13138
+20871 20872 20873 20874 
+
+$ istat -o 2048 evidence/working/WS01_jharris.dd 98   # Users/jharris/AppData/Roaming/Microsoft/Update/winupd.exe
+MFT Entry Header Values:
+Entry: 98        Sequence: 2
+$LogFile Sequence Number: 0
+Not Allocated File
+Links: 0
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 0  ()
+Created:	2026-11-12 06:42:58.000000000 (UTC)
+File Modified:	2026-11-12 06:42:58.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.089871200 (UTC)
+Accessed:	2026-11-12 06:42:58.000000000 (UTC)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: winupd.exe
+Parent MFT Entry: 97 	Sequence: 1
+Allocated Size: 8192   	Actual Size: 0
+Created:	2026-11-12 06:42:58.000000000 (UTC)
+File Modified:	2026-11-12 06:42:58.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.089871200 (UTC)
+Accessed:	2026-11-12 06:42:58.000000000 (UTC)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0)   Name: N/A   Resident   size: 48
+Type: $FILE_NAME (48-3)   Name: N/A   Resident   size: 86
+Type: $SECURITY_DESCRIPTOR (80-1)   Name: N/A   Resident   size: 80
+Type: $DATA (128-2)   Name: N/A   Non-Resident   size: 4653  init_size: 4653
+16769 16770 
+
+$ istat -o 2048 evidence/working/WS01_jharris.dd 102   # Users/jharris/Documents/Client_List_2026.docx
+MFT Entry Header Values:
+Entry: 102        Sequence: 2
+$LogFile Sequence Number: 0
+Not Allocated File
+Links: 0
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 0  ()
+Created:	2026-10-28 10:15:00.000000000 (UTC)
+File Modified:	2026-10-28 10:15:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.091377400 (UTC)
+Accessed:	2026-10-28 10:15:00.000000000 (UTC)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: Client_List_2026.docx
+Parent MFT Entry: 72 	Sequence: 1
+Allocated Size: 4096   	Actual Size: 0
+Created:	2026-10-28 10:15:00.000000000 (UTC)
+File Modified:	2026-10-28 10:15:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.091377400 (UTC)
+Accessed:	2026-10-28 10:15:00.000000000 (UTC)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0)   Name: N/A   Resident   size: 48
+Type: $FILE_NAME (48-3)   Name: N/A   Resident   size: 108
+Type: $SECURITY_DESCRIPTOR (80-1)   Name: N/A   Resident   size: 80
+Type: $DATA (128-2)   Name: N/A   Non-Resident   size: 3074  init_size: 3074
+7240 
+
+$ istat -o 2048 evidence/working/WS01_jharris.dd 103   # Users/jharris/Documents/Budget_Plan_2027.xlsx
+MFT Entry Header Values:
+Entry: 103        Sequence: 2
+$LogFile Sequence Number: 0
+Not Allocated File
+Links: 0
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 0  ()
+Created:	2026-10-28 10:15:00.000000000 (UTC)
+File Modified:	2026-10-28 10:15:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.091829000 (UTC)
+Accessed:	2026-10-28 10:15:00.000000000 (UTC)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: Budget_Plan_2027.xlsx
+Parent MFT Entry: 72 	Sequence: 1
+Allocated Size: 4096   	Actual Size: 0
+Created:	2026-10-28 10:15:00.000000000 (UTC)
+File Modified:	2026-10-28 10:15:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:35.091829000 (UTC)
+Accessed:	2026-10-28 10:15:00.000000000 (UTC)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0)   Name: N/A   Resident   size: 48
+Type: $FILE_NAME (48-3)   Name: N/A   Resident   size: 108
+Type: $SECURITY_DESCRIPTOR (80-1)   Name: N/A   Resident   size: 80
+Type: $DATA (128-2)   Name: N/A   Non-Resident   size: 3031  init_size: 3031
+12674 
+

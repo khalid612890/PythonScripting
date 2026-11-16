@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	smb_mapping
+#open	2026-11-16-11-50-06
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	path	service	native_file_system	share_type
+#types	time	string	addr	port	addr	port	string	string	string	string
+1794694231.440782	Cdj9Qs1GAkKdfJEHVb	10.10.10.21	45652	10.10.10.5	445	\\\\10.10.10.5\\Shared	-	-	DISK
+1794783943.220075	C6Nufd2gj4HUYxbgtj	10.10.10.21	45372	10.10.10.22	445	\\\\10.10.10.22\\ADMIN$	-	-	DISK
+#close	2026-11-16-11-50-06

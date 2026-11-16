@@ -1,0 +1,66 @@
+$ istat -o 2048 evidence/working/WS02_mpatel.dd 86   # Users/mpatel/Documents/Client_List_2026.docx
+MFT Entry Header Values:
+Entry: 86        Sequence: 2
+$LogFile Sequence Number: 0
+Not Allocated File
+Links: 0
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 0  ()
+Created:	2026-09-14 09:30:00.000000000 (UTC)
+File Modified:	2026-09-14 09:30:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:36.210771700 (UTC)
+Accessed:	2026-09-14 09:30:00.000000000 (UTC)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: Client_List_2026.docx
+Parent MFT Entry: 72 	Sequence: 1
+Allocated Size: 4096   	Actual Size: 0
+Created:	2026-09-14 09:30:00.000000000 (UTC)
+File Modified:	2026-09-14 09:30:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:36.210771700 (UTC)
+Accessed:	2026-09-14 09:30:00.000000000 (UTC)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0)   Name: N/A   Resident   size: 48
+Type: $FILE_NAME (48-3)   Name: N/A   Resident   size: 108
+Type: $SECURITY_DESCRIPTOR (80-1)   Name: N/A   Resident   size: 80
+Type: $DATA (128-2)   Name: N/A   Non-Resident   size: 3074  init_size: 3074
+3145 
+
+$ istat -o 2048 evidence/working/WS02_mpatel.dd 87   # Users/mpatel/Documents/Budget_Plan_2027.xlsx
+MFT Entry Header Values:
+Entry: 87        Sequence: 2
+$LogFile Sequence Number: 0
+Not Allocated File
+Links: 0
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 0  ()
+Created:	2026-09-14 09:30:00.000000000 (UTC)
+File Modified:	2026-09-14 09:30:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:36.211113800 (UTC)
+Accessed:	2026-09-14 09:30:00.000000000 (UTC)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: Budget_Plan_2027.xlsx
+Parent MFT Entry: 72 	Sequence: 1
+Allocated Size: 4096   	Actual Size: 0
+Created:	2026-09-14 09:30:00.000000000 (UTC)
+File Modified:	2026-09-14 09:30:00.000000000 (UTC)
+MFT Modified:	2026-11-16 11:40:36.211113800 (UTC)
+Accessed:	2026-09-14 09:30:00.000000000 (UTC)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0)   Name: N/A   Resident   size: 48
+Type: $FILE_NAME (48-3)   Name: N/A   Resident   size: 108
+Type: $SECURITY_DESCRIPTOR (80-1)   Name: N/A   Resident   size: 80
+Type: $DATA (128-2)   Name: N/A   Non-Resident   size: 3031  init_size: 3031
+7240 
+

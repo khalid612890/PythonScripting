@@ -1,0 +1,7 @@
+4edc51999228597a0637b8ca1800b2687b89c8c99b872bb6e069e238c39a4789  ./FS01_memory.raw.xz
+b206cb01fa3e7ef749e818472fdc384e39d82d0587b45e5ca16bc2e11066c24a  ./SHA256SUMS_compressed.txt
+fa2bac2dc2be4de475d156ff5e8c4d7dbf93d6d5419141a78e21f5ffe917eef0  ./TechNova_perimeter_48h.pcap
+f817fff37dc010b44f5fc0bd83341bbbf6cda65dc51e1f1fa11a6672be790950  ./WS01_jharris.dd.xz
+56d1089140ff915acd204ed8ab1a3095b79490c01763ade6ae96ba0d5b13bd69  ./WS02_mpatel.dd.xz
+71f14aecb8a534acb31f5eb47dbaa1cac7f64238aa792890c525777ea96a984d  ./email/eml/msg_3A21C4_jharris_INV-20931.eml
+d24237d230c47ee486e32f8d4a7843fdbc571593185c11e8dba21cb1e4a7841a  ./email/mx01_maillog_2026-11-09_to_15.log

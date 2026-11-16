@@ -1,0 +1,31 @@
+# Tool versions recorded 2026-11-16 11:58:47 UTC on Ubuntu 24.04.5 LTS
+$ fls -V
+The Sleuth Kit ver 4.12.1
+$ mmls -V
+The Sleuth Kit ver 4.12.1
+$ tshark -v
+TShark (Wireshark) 4.2.2 (Git v4.2.2 packaged as 4.2.2-1.1build3).
+$ wireshark --version
+Wireshark 4.2.2 (Git v4.2.2 packaged as 4.2.2-1.1build3).
+$ /opt/zeek/bin/zeek --version
+/opt/zeek/bin/zeek version 9.0.1
+$ yara --version
+4.5.0
+$ exiftool -ver
+12.76
+$ vol --version
+Volatility 3 Framework 2.28.2
+$ log2timeline --version
+plaso - log2timeline version 20261027
+$ psort --version
+plaso - psort version 20261027
+$ python3 --version
+Python 3.13.18
+$ qemu-system-x86_64 --version
+QEMU emulator version 8.2.2 (Debian 1:8.2.2+ds-0ubuntu1.18)
+$ autopsy (banner)
+                             ver 2.24 
+$ dpkg -l sleuthkit autopsy zeek-lts
+ii  autopsy        2.24-6                 all          graphical interface to SleuthKit
+ii  sleuthkit      4.12.1+dfsg-1.1ubuntu2 amd64        tools for forensics analysis on volume and filesystem data
+ii  zeek-lts       9.0.1-0                amd64        Zeek is a powerful framework for network analysis and security monitoring.
